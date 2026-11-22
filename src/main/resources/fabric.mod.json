@@ -3,15 +3,16 @@
 	"id": "anti-ghost",
 	"version": "${version}",
 	"name": "anti-ghost",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Automatically re-updates your inventory in an attempt to prevent / minimize ghosting | Unofficial continuation by Shikaru0",
 	"authors": [
-		"Me!"
+		"TheMasterKitty",
+		"Shikaru0"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Shikaru0/",
+		"sources": "https://github.com/Shikaru0/anti-ghost/tree/fabric-26.1.2"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/anti-ghost/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -30,7 +31,7 @@
 		}
 	],
 	"depends": {
-		"fabricloader": ">=0.20.1",
+		"fabricloader": "*",
 		"minecraft": "~26.1.2",
 		"java": ">=25",
 		"fabric-api": "*"
