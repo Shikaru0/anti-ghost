@@ -10,7 +10,7 @@
 	],
 	"contact": {
 		"homepage": "https://github.com/Shikaru0/",
-		"sources": "https://github.com/Shikaru0/anti-ghost/tree/fabric-26.1.2"
+		"sources": "https://github.com/Shikaru0/anti-ghost/tree/fabric-wide"
 	},
 	"license": "MIT",
 	"icon": "assets/anti-ghost/icon.png",
